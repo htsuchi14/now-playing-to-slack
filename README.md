@@ -162,3 +162,6 @@ MIT © 2025 Hiromu Tsuchiya
 
 ---
 
+**英語版はこちら 👉 [README.en.md](README.en.md)**
+
+---
