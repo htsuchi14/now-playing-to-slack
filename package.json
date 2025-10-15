@@ -1,0 +1,22 @@
+{
+  "name": "now-playing-to-slack",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@slack/web-api": "^7.3.0",
+    "date-fns": "^3.6.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=20.11.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv-cli": "^10.0.0"
+  }
+}
