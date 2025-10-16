@@ -24,7 +24,7 @@ Spotifyで再生中の曲を自動でSlackチャンネルに投稿するBotで�
 
 ### 1. リポジトリをクローン
 ```bash
-git clone https://github.com/hiromutsuchiya/now-playing-to-slack.git
+git clone https://github.com/htsuchi14/now-playing-to-slack.git
 cd now-playing-to-slack
 cp .env.example .env
 ````

@@ -25,7 +25,7 @@ with Japan timezone–aware scheduling (runs only on weekdays 9:00–21:00 JST, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/hiromutsuchiya/now-playing-to-slack.git
+git clone https://github.com/htsuchi14/now-playing-to-slack.git
 cd now-playing-to-slack
 cp .env.example .env
 ````
@@ -167,7 +167,7 @@ MIT © 2025 Hiromu Tsuchiya
 
 ## ☕ Acknowledgements
 
-Developed by [@hiromutsuchiya](https://github.com/hiromutsuchiya)
+Developed by [@htsuchi14](https://github.com/htsuchi14)
 "DJ Tsucchii" — Your friendly Slack music companion 🎵
 
 ---
